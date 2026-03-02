@@ -13,9 +13,9 @@ What makes it different? Well, the answer, no interrupts or delays are used. It 
 - No polling in the code
 - PIC C Compiler and its in built RTOS is used
 
-Board Used: EasyPic connectivity board - MikroElektronika
-Language Used: C
-16x8 LED Matrix with a decoder connected to PORTB of the board
+- Board Used: EasyPic connectivity board - MikroElektronika
+- Language Used: C
+- 16x8 LED Matrix with a decoder connected to PORTB of the board
 
 
-<video src="Paratrooper Game Demo" controls width="500"></video>
+<video src="[Paratrooper Game Demo](https://github.com/AR41001/RTOS-based-Paratrooper-Game/blob/main/Paratrooper%20Game%20Demo.mp4)" controls width="500"></video>
